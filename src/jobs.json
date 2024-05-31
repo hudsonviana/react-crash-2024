@@ -83,6 +83,20 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "b296",
+      "title": "TESTE de job Estados Unidos",
+      "type": "Internship",
+      "location": "Passa e Fica/RN",
+      "description": "asdf asdf asdf",
+      "salary": "$175K - 200K",
+      "company": {
+        "name": "UFRN/UFERSA",
+        "description": "çljk çjk",
+        "contactEmail": "teste@teste.com",
+        "contactPhone": "123456"
+      }
     }
   ]
 }
